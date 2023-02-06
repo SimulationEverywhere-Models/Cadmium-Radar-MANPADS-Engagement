@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<DataTypes>
+		<DataType name="messageMissileStatus" description="Status of missile (1: hit or 0: miss).">
+			<Attribute name="missileStatus" type="int" description="Status of missile (1: hit or 0: miss)."/>
+		</DataType>
+		<DataType name="messageAircraftPosition" description="Position of the aircraft (in meters).">
+			<Attribute name="aircraftPositionX" type="int" description="Position x of aircraft (in meters)."/>
+			<Attribute name="aircraftPositionY" type="int" description="Position y of aircraft (in meters)."/>
+		</DataType>
+		<DataType name="messageDetectedPosition" description="Position of the aircraft once detected by radar (in meters).">
+			<Attribute name="detectedPositionX" type="int" description="Position x of aircraft (in meters)."/>
+			<Attribute name="detectedPositionY" type="int" description="Position y of aircraft (in meters)."/>
+		</DataType>
+		<DataType name="messageDistance" description="Distance between an entity and the aircraft (in meters).">
+			<Attribute name="distance" type="int" description="Distance between an entity and the aircraft (in meters)."/>
+		</DataType>
+	</DataTypes>
+	<Model name="radar_MANPADS_engagement" type="coupled" description="Model of an engagement between an aircraft and a radar-augmented MANPADS.">
+		<Inputs>
+		</Inputs>
+		<Outputs>
+			<Port name="radar_MANPADS_engagement_out" type="messageMissileStatus" description="Indicates if the missile launched has hit or miss the aircraft."/>
+		</Outputs>
+		<Files>
+			<File name="radar_MANPADS_engagement.cpp" type="CPP" location="/model"/>
+			<File name="radar_MANPADS_engagement_output_messages.txt" type="LOG" location="/simulation_results"/>
+			<File name="radar_MANPADS_engagement_output_state.txt" type="LOG" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="ADS_Model" type="coupled" description="Model representing an Air Defense System consisting of the enemy assets (i.e., radar, MANPADS gunner and missile)">
+		<Inputs>
+			<Port name="ads_in" type="messageAircraftPosition" description="Position of the aircraft (in meters)."/>
+		</Inputs>
+		<Outputs>
+			<Port name="ads_out" type="messageMissileStatus" description="Status of missile (1: hit or 0: miss)."/>
+		</Outputs>
+		<Files>
+			<File name="ads_test.cpp" type="CPP" location="/test"/>
+			<File name="ads_input_test.txt" type="TXT" location="/input_data"/>
+			<File name="ads_test_output_messages.txt" type="LOG" location="/simulation_results"/>
+			<File name="ads_test_output_state.txt" type="LOG" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="aircraft" type="atomic" description="Model generating the position of the aircraft while not hit.">
+		<Inputs>
+			<Port name="inMissileStatus" type="messageMissileStatus" description="Status of missile (1: hit or 0: miss)."/>
+		</Inputs>
+		<Outputs>
+			<Port name="outAircraftPosition" type="messageAircraftPosition" description="Generates the aircraft position (in meters)."/>
+		</Outputs>
+		<Files>
+			<File name="aircraft.hpp" type="HPP" location="/atomics" />
+			<File name="aircraft_test.cpp" type="CPP" location="/test" />
+			<File name="aircraft_input_test.txt" type="TXT" location="/input_data"/>
+			<File name="aircraft_test_output_messages.txt" type="LOG" location="/simulation_results"/>
+			<File name="aircraft_test_output_state.txt" type="LOG" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="radar" type="atomic" description="Model generating the aircraft position once detected by the radar. Detection is made once the aircraft is within the predefined detection range">
+		<Inputs>
+			<Port name="inAircraftPosition" type="messageAircraftPosition" description="Received aircraft position (in meters)."/>
+		</Inputs>
+		<Outputs>
+			<Port name="outDetectedPosition" type="messageDetectedPosition" description="Aircraft position (in meters) once detected by radar."/>
+		</Outputs>
+		<Files>
+			<File name="radar.hpp" type="HPP" location="/atomics" />
+			<File name="radar_test.cpp" type="CPP" location="/test" />
+			<File name="radar_input_test.txt" type="TXT" location="/input_data"/>
+			<File name="radar_test_output_messages.txt" type="LOG" location="/simulation_results"/>
+			<File name="radar_test_output_state.txt" type="LOG" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="gunner" type="atomic" description="Model representing a MANPADS gunner. Generates the distance between the gunner and the aircraft and reloads new missile.">
+		<Inputs>
+			<Port name="inDetectedPosition" type="messageDetectedPosition" description="Aircraft position (in meters) from radar."/>
+			<Port name="inMissileStatus" type="messageMissileStatus" description="Status of missile (1: hit or 0: miss)."/>
+		</Inputs>
+		<Outputs>
+			<Port name="outDistanceGunnerAircraft" type="messageDistance" description="Distance between the gunner and the aircraft."/>
+		</Outputs>
+		<Files>
+			<File name="gunner.hpp" type="HPP" location="/atomics" />
+			<File name="gunner_test.cpp" type="CPP" location="/test" />
+			<File name="gunner_detected_position_input_test.txt" type="TXT" location="/input_data"/>
+			<File name="gunner_missile_status_input_test.txt" type="TXT" location="/input_data"/>
+			<File name="gunner_test_output_messages.txt" type="LOG" location="/simulation_results"/>
+			<File name="gunner_test_output_state.txt" type="LOG" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="missile" type="atomic" description="Model representing a missile. Generates a 'hit' or 'miss' based on the missile launch range.">
+		<Inputs>
+			<Port name="inDistanceGunnerAircraft" type="messageDistance" description="Distance between the gunner and the aircraft."/>
+		</Inputs>
+		<Outputs>
+			<Port name="outMissileStatus" type="messageMissileStatus" description="Status of the missile (i.e., hit or miss)."/>			
+		</Outputs>
+		<Files>
+			<File name="missile.hpp" type="HPP" location="/atomics" />
+			<File name="missile_test.cpp" type="CPP" location="/test" />
+			<File name="missile_input_test.txt" type="TXT" location="/input_data"/>
+			<File name="missile_test_output_messages.txt" type="LOG" location="/simulation_results"/>
+			<File name="missile_test_output_state.txt" type="LOG" location="/simulation_results"/>
+		</Files>
+	</Model>
+</Models>

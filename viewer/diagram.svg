@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="959px" height="219px" viewBox="-0.5 -0.5 959 219" content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2020-10-20T23:20:40.967Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36&quot; etag=&quot;yceEAFx2loIdEbHN24_e&quot; version=&quot;13.8.1&quot; type=&quot;device&quot;&gt;&lt;diagram name=&quot;Page-1&quot; id=&quot;90a13364-a465-7bf4-72fc-28e22215d7a0&quot;&gt;7VpLc+I4EP41HLOF/OYIIZOp7GZrajnM5DSlsYWtxVisLALk169kS/gh8yoeJt7NJVa7W5b7+7rVLdMzH+frZwoX0SsJUNwz+sG6Z457hgFcw+H/hGSTSzzPygUhxYFUKgQT/IGksC+lSxygtKLICIkZXlSFPkkS5LOKDFJKVlW1KYmrT13AEGmCiQ9jJf3NLuTfccAiKQfOoLjxFeEwkg/31Cv/gv4spGSZyCf2DHOa/eW351DNJV81jWBAViWR+dQzHykhLL+arx9RLLyrHKfs2EattmeOIjaP+QDwy+z2lx3G4Bhj/nIUJaz8uF3zjQjw8Oz7ko3RnyF48T5evoAHy9KeggLuXzkklEUkJAmMnwrpKHMZEtP2+ajQ+YOQhVzc34ixjSQLXDJSXTpaY/ajdP0mpuI45qPxWs6cDTZqkDC6+VEoiuGbmkMMCrNspOzy9xMvVWNR4TflabKkvtR6j74Og/mz9ZrCl7mDrN9n8ezBNSS/IQ2RtDUhcKfAR7bdB4YdwAdvSwwecojMEV8Mt6Eohgy/VxcBJffDrZ40HVIKNyWFBcEJS0szfxMCrqDCGPQl12QUG26NDIcMzMF+A8Paq88v8jWrUenlC1HGyGZ27nX4O4yXKgYMJ+auH/3iF6G4GGLKNcZoipIU8avJJmVortT4Y7eaGtOrPF5FmKHJAmYUWPFkWeXsNviF7pQkTLIbiLCEMQ4TPvA5pxAVhoTiD64Elfk7ogzzrDWUmkyEyiiAaZQtoDmgJU2ELVqXRDq95F3TqaIEPDleFYnRVWkpKuXErWITJUsg78WwORYa4RMOrIDh/LMk6sZDmrl2yBWAsVgXN0uY+xROWQnlfMIdQJ8D7QVQ2e6VKjitgYaK0wCKSs7nYNIYV7Z7JWD+ggGknwQVy7k3VK4VLs9LXnp9Flgctz1YGkukhkLshiVSURa9le7cbYlkD/QSaQ/Zb10nDWqZ2JRP2FX1uPUqqap/dtXTTDijTcKdUpNfnDjn8kGvc/tevTCuzZEzVZrVUsUFSlgVEBdP6q84TTE3/BxZ3avD0HZWB6aGC05eJ5rf+PuxmqsYJTP0SGLCC/1xQhIRflMcxzWR1hPUW4A5DoIsdpuwqcbzDnc3gLITATCopbK+3hpYDQgYF2gMmhGwNQTIkg39b+vugmC4djUMbNAyCE2dQH3zSYKhOKgTbowhzzp+WzvHsYctJW/aDd5UsjP3Fq92JGI5tSnypWtbizZRvWu/4h7VTIKmxuNUEmxrz3LlWSpEz649D5eUbptsOAjisWzwaonaAjdmQ1PFcoOUcH0GHS5C3WOp1o3E0zbV1Lb2X6SadyzVdjRG/1PtNKrp9f7JVDsW/rbA0ptdZ6C+jp6KFwDWwbmuDZmlQQaD9CdONOA60x+Yjll1etv9gaE3aTjpdo9mqZ7objBwNAyI0GBdRsE2Dx8Y3RYFvSzGScdBcIw7A8HUC0YRCjhl3QXBNe07A6Hp6LTbGHj3lo1MvTbigdDl8+tBvR5tHQJ9WxblKYehuyCA/t0Fgn522XEEjviSdlMELKAh0O0vaU79pHdgXgsBPix+Xpz31cWvuM2nfwE=&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+   <defs/>
+   <g>
+      <path id="l-01" type="link" modelA="ADS_Model" portA="ads_out" modelB="myAircraft" portB="inMissileStatus" d="M 890 90 L 910 90 L 910 210 L 50 210 L 50 119.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+      <path d="M 50 114.12 L 53.5 121.12 L 50 119.37 L 46.5 121.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <rect id="m-01" type="coupled" name="ADS_Model" x="170" y="0" width="720" height="180" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="t-01" type="coupled" name="ADS_Model" x="530" y="19" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Air Defense System</text>
+         </switch>
+      </g>
+      <rect id="m-02" type="atomic" name="myAircraft" x="20" y="69" width="60" height="44" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="t-02" type="atomic" name="myAircraft" x="50" y="95" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Aircraft</text>
+         </switch>
+      </g>
+      <rect id="m-03" type="atomic" name="myRadar" x="270" y="69" width="60" height="44" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="t-03" type="atomic" name="myRadar" x="300" y="95" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Radar</text>
+         </switch>
+      </g>
+      <rect id="m-04" type="atomic" name="myGunner" x="480" y="69" width="60" height="44" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="t-04" type="atomic" name="myGunner" x="510" y="95" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Gunner</text>
+         </switch>
+      </g>
+      <path id="l-02" type="link" modelA="myMissile" portA="outMissileStatus" modelB="myGunner" portB="inMissileStatus" d="M 720 113 L 720 141 L 510 141 L 510 119.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+      <path d="M 510 114.12 L 513.5 121.12 L 510 119.37 L 506.5 121.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path id="l-03" type="link" modelA="myMissile" portA="outMissileStatus" modelB="ADS_Model" portB="ads_out" d="M 750 91 L 883.63 91" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+      <path d="M 888.88 91 L 881.88 94.5 L 883.63 91 L 881.88 87.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <rect id="m-05" type="atomic" name="myMissile" x="690" y="69" width="60" height="44" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="t-05" type="atomic" name="myMissile" x="720" y="95" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Missile</text>
+         </switch>
+      </g>
+      <rect x="0" y="120" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-01" type="iPort" name="inMissileStatus" model="myAircraft" x="20" y="134" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">inMS</text>
+         </switch>
+      </g>
+      <rect x="85" y="71" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-02" type="oPort" name="outAircraftPosition" model="myAircraft" x="105" y="85" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">outAcPx</text>
+         </switch>
+      </g>
+      <path id="l-04" type="link" modelA="myAircraft" portA="outAircraftPosition" modelB="ADS_Model" portB="ads_in" d="M 80 91 L 163.63 91" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+      <path d="M 168.88 91 L 161.88 94.5 L 163.63 91 L 161.88 87.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path id="l-05" type="link" modelA="ADS_Model" portA="ads_in" modelB="myRadar" portB="inAircraftPosition" d="M 170 91 L 263.63 91" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+      <path d="M 268.88 91 L 261.88 94.5 L 263.63 91 L 261.88 87.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path id="l-06" type="link" modelA="myRadar" portA="outDetectedPosition" modelB="myGunner" portB="inDetectedPosition" d="M 330 91 L 473.63 91" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+      <path d="M 478.88 91 L 471.88 94.5 L 473.63 91 L 471.88 87.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path id="l-07" type="link" modelA="myGunner" portA="outDistanceGunnerAircraft" modelB="myMissile" portB="inDistanceGunnerAircraft" d="M 540 91 L 683.63 91" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+      <path d="M 688.88 91 L 681.88 94.5 L 683.63 91 L 681.88 87.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path id="l-08" type="link" modelA="ADS_Model" portA="ads_out" modelB="TOP" portB="radar_MANPADS_engagement_out" d="M 890 89.5 L 943.63 89.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+      <path d="M 948.88 89.5 L 941.88 93 L 943.63 89.5 L 941.88 86 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <rect x="173" y="71" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-03" type="iPort" name="ads_in" model="ADS_Model" x="193" y="85" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">ads_in</text>
+         </switch>
+      </g>
+      <rect x="227" y="71" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-04" type="iPort" name="inAircraftPosition" model="myRadar" x="247" y="85" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">inAcPx</text>
+         </switch>
+      </g>
+      <rect x="340" y="69" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-05" type="oPort" name="outDetectedPosition" model="myRadar" x="360" y="83" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">outDet...</text>
+         </switch>
+      </g>
+      <rect x="430" y="69" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-06" type="iPort" name="inDetectedPosition" model="myGunner" x="450" y="83" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">inDetPx</text>
+         </switch>
+      </g>
+      <rect x="545" y="69" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-07" type="oPort" name="outDistanceGunnerAircraft" model="myGunner" x="565" y="83" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">outDist</text>
+         </switch>
+      </g>
+      <rect x="640" y="69" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-08" type="iPort" name="inDistanceGunnerAircraft" model="myMissile" x="660" y="83" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">inDist</text>
+         </switch>
+      </g>
+      <rect x="750" y="69" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-09" type="oPort" name="outMissileStatus" model="myMissile" x="770" y="83" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">outMS</text>
+         </switch>
+      </g>
+      <rect x="840" y="69" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-10" type="oPort" name="ads_out" model="ADS_Model" x="860" y="83" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">ads_out</text>
+         </switch>
+      </g>
+      <rect x="890" y="69" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-11" type="oPort" name="radar_MANPADS_engagement_out" model="TOP" x="910" y="83" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">out</text>
+         </switch>
+      </g>
+      <rect x="470" y="113" width="40" height="20" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <text id="p-12" type="iPort" name="inMissileStatus" model="myGunner" x="490" y="127" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">inMS</text>
+         </switch>
+      </g>
+   </g>
+   <switch>
+      <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+      <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+         <text text-anchor="middle" font-size="10px" x="50%" y="100%">Viewer does not support full SVG 1.1</text>
+      </a>
+   </switch>
+</svg>

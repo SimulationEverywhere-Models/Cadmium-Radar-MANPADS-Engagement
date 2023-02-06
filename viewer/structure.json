@@ -1,0 +1,170 @@
+{
+   "info": {
+      "simulator": "Cadmium",
+      "name": "radar_MANPADS_engagement_output_messages",
+      "type": "DEVS"
+   },
+   "nodes": [
+      {
+         "name": "TOP",
+         "type": "coupled"
+      },
+      {
+         "name": "myAircraft",
+         "type": "atomic",
+			"svg": ["#t-02", "#m-02"]
+      },
+      {
+         "name": "ADS_Model",
+         "type": "coupled",
+			"svg": ["#t-01", "#m-01"]
+      },
+      {
+         "name": "myRadar",
+         "type": "atomic",
+			"svg": ["#t-03", "#m-03"]
+      },
+      {
+         "name": "myMissile",
+         "type": "atomic",
+			"svg": ["#t-05", "#m-05"]
+      },
+      {
+         "name": "myGunner",
+         "type": "atomic",
+			"svg": ["#t-04", "#m-04"]
+      }
+   ],
+   "ports":[
+      {
+         "model": "TOP",
+         "name": "radar_MANPADS_engagement_out",
+         "type": "output",
+			"svg": ["#p-11"]
+      },
+      {
+         "model": "myAircraft",
+         "name": "inMissileStatus",
+         "type": "input",
+			"svg": ["#p-01"]
+      },
+      {
+         "model": "myAircraft",
+         "name": "outAircraftPosition",
+         "type": "output",
+			"svg": ["#p-02"]
+      },
+      {
+         "model": "ADS_Model",
+         "name": "ads_in",
+         "type": "input",
+			"svg": ["#p-03"]
+      },
+      {
+         "model": "ADS_Model",
+         "name": "ads_out",
+         "type": "output",
+			"svg": ["#p-10"]
+      },
+      {
+         "model": "myRadar",
+         "name": "inAircraftPosition",
+         "type": "input",
+			"svg": ["#p-04"]
+      },
+      {
+         "model": "myRadar",
+         "name": "outDetectedPosition",
+         "type": "output",
+			"svg": ["#p-05"]
+      },
+      {
+         "model": "myMissile",
+         "name": "inDistanceGunnerAircraft",
+         "type": "input",
+			"svg": ["#p-08"]
+      },
+      {
+         "model": "myMissile",
+         "name": "outMissileStatus",
+         "type": "output",
+			"svg": ["#p-09"]
+      },
+      {
+         "model": "myGunner",
+         "name": "inDetectedPosition",
+         "type": "input",
+			"svg": ["#p-06"]
+      },
+      {
+         "model": "myGunner",
+         "name": "inMissileStatus",
+         "type": "input",
+			"svg": ["#p-12"]
+      },
+      {
+         "model": "myGunner",
+         "name": "outDistanceGunnerAircraft",
+         "type": "output",
+			"svg": ["#p-07"]
+      }
+   ],
+   "links":[
+      {
+         "modelA": "myAircraft",
+         "portA": "outAircraftPosition",
+         "modelB": "ADS_Model",
+         "portB": "ads_in",
+			"svg": ["#l-04"]
+      },
+      {
+         "modelA": "ADS_Model",
+         "portA": "ads_out",
+         "modelB": "myAircraft",
+         "portB": "inMissileStatus",
+			"svg": ["#l-01"]
+      },
+      {
+         "modelA": "ADS_Model",
+         "portA": "ads_out",
+         "modelB": "TOP",
+         "portB": "radar_MANPADS_engagement_out",
+			"svg": ["#l-08"]
+      },
+      {
+         "modelA": "myRadar",
+         "portA": "outDetectedPosition",
+         "modelB": "myGunner",
+         "portB": "inDetectedPosition",
+			"svg": ["#l-06"]
+      },
+      {
+         "modelA": "myGunner",
+         "portA": "outDistanceGunnerAircraft",
+         "modelB": "myMissile",
+         "portB": "inDistanceGunnerAircraft",
+			"svg": ["#l-07"]
+      },
+      {
+         "modelA": "myMissile",
+         "portA": "outMissileStatus",
+         "modelB": "myGunner",
+         "portB": "inMissileStatus",
+			"svg": ["#l-02"]
+      },
+      {
+         "modelA": "myMissile",
+         "portA": "outMissileStatus",
+         "modelB": "ADS_Model",
+         "portB": "ads_out",
+			"svg": ["#l-03"]
+      },
+      {
+         "modelA": "ADS_Model",
+         "portA": "ads_in",
+         "modelB": "myRadar",
+         "portB": "inAircraftPosition",
+			"svg": ["#l-05"]
+      }
+   ]
+}

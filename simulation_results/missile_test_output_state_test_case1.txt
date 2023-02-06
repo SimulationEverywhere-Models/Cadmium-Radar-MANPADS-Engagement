@@ -1,0 +1,12 @@
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+00:00:00:000
+State for model input_reader is next time: 00:01:00:000
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+00:01:00:000
+State for model input_reader is next time: inf
+State for model myMissile is LAUNCHED. Missile status is: 0 (1 = hit and 0 = miss)
+00:01:07:000
+State for model input_reader is next time: inf
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).

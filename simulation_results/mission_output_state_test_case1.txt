@@ -1,0 +1,1225 @@
+00:00:00:000
+State for model myAircraft is Aircraft position: [0,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 0 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:00:000
+State for model myAircraft is Aircraft position: [60,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 30000 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:01:000
+State for model myAircraft is Aircraft position: [120,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29940 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:02:000
+State for model myAircraft is Aircraft position: [180,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29880 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:03:000
+State for model myAircraft is Aircraft position: [240,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29820 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:04:000
+State for model myAircraft is Aircraft position: [300,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29760 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:05:000
+State for model myAircraft is Aircraft position: [360,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29700 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:06:000
+State for model myAircraft is Aircraft position: [420,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29640 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:07:000
+State for model myAircraft is Aircraft position: [480,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29580 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:08:000
+State for model myAircraft is Aircraft position: [540,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29520 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:09:000
+State for model myAircraft is Aircraft position: [600,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29460 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:10:000
+State for model myAircraft is Aircraft position: [660,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29400 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:11:000
+State for model myAircraft is Aircraft position: [720,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29340 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:12:000
+State for model myAircraft is Aircraft position: [780,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29280 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:13:000
+State for model myAircraft is Aircraft position: [840,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29220 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:14:000
+State for model myAircraft is Aircraft position: [900,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29160 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:15:000
+State for model myAircraft is Aircraft position: [960,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29100 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:16:000
+State for model myAircraft is Aircraft position: [1020,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 29040 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:17:000
+State for model myAircraft is Aircraft position: [1080,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28980 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:18:000
+State for model myAircraft is Aircraft position: [1140,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28920 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:19:000
+State for model myAircraft is Aircraft position: [1200,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28860 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:20:000
+State for model myAircraft is Aircraft position: [1260,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28800 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:21:000
+State for model myAircraft is Aircraft position: [1320,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28740 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:22:000
+State for model myAircraft is Aircraft position: [1380,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28680 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:23:000
+State for model myAircraft is Aircraft position: [1440,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28620 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:24:000
+State for model myAircraft is Aircraft position: [1500,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28560 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:25:000
+State for model myAircraft is Aircraft position: [1560,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28500 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:26:000
+State for model myAircraft is Aircraft position: [1620,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28440 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:27:000
+State for model myAircraft is Aircraft position: [1680,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28380 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:28:000
+State for model myAircraft is Aircraft position: [1740,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28320 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:29:000
+State for model myAircraft is Aircraft position: [1800,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28260 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:30:000
+State for model myAircraft is Aircraft position: [1860,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28200 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:31:000
+State for model myAircraft is Aircraft position: [1920,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28140 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:32:000
+State for model myAircraft is Aircraft position: [1980,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28080 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:33:000
+State for model myAircraft is Aircraft position: [2040,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 28020 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:34:000
+State for model myAircraft is Aircraft position: [2100,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27960 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:35:000
+State for model myAircraft is Aircraft position: [2160,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27900 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:36:000
+State for model myAircraft is Aircraft position: [2220,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27840 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:37:000
+State for model myAircraft is Aircraft position: [2280,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27780 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:38:000
+State for model myAircraft is Aircraft position: [2340,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27720 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:39:000
+State for model myAircraft is Aircraft position: [2400,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27660 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:40:000
+State for model myAircraft is Aircraft position: [2460,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27600 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:41:000
+State for model myAircraft is Aircraft position: [2520,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27540 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:42:000
+State for model myAircraft is Aircraft position: [2580,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27480 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:43:000
+State for model myAircraft is Aircraft position: [2640,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27420 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:44:000
+State for model myAircraft is Aircraft position: [2700,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27360 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:45:000
+State for model myAircraft is Aircraft position: [2760,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27300 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:46:000
+State for model myAircraft is Aircraft position: [2820,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27240 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:47:000
+State for model myAircraft is Aircraft position: [2880,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27180 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:48:000
+State for model myAircraft is Aircraft position: [2940,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27120 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:49:000
+State for model myAircraft is Aircraft position: [3000,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27060 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:50:000
+State for model myAircraft is Aircraft position: [3060,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 27000 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:51:000
+State for model myAircraft is Aircraft position: [3120,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26940 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:52:000
+State for model myAircraft is Aircraft position: [3180,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26880 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:53:000
+State for model myAircraft is Aircraft position: [3240,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26820 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:54:000
+State for model myAircraft is Aircraft position: [3300,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26760 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:55:000
+State for model myAircraft is Aircraft position: [3360,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26700 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:56:000
+State for model myAircraft is Aircraft position: [3420,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26640 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:57:000
+State for model myAircraft is Aircraft position: [3480,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26580 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:58:000
+State for model myAircraft is Aircraft position: [3540,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26520 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:00:59:000
+State for model myAircraft is Aircraft position: [3600,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26460 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:00:000
+State for model myAircraft is Aircraft position: [3660,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26400 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:01:000
+State for model myAircraft is Aircraft position: [3720,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26340 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:02:000
+State for model myAircraft is Aircraft position: [3780,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26280 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:03:000
+State for model myAircraft is Aircraft position: [3840,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26220 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:04:000
+State for model myAircraft is Aircraft position: [3900,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26160 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:05:000
+State for model myAircraft is Aircraft position: [3960,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26100 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:06:000
+State for model myAircraft is Aircraft position: [4020,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 26040 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:07:000
+State for model myAircraft is Aircraft position: [4080,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25980 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:08:000
+State for model myAircraft is Aircraft position: [4140,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25920 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:09:000
+State for model myAircraft is Aircraft position: [4200,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25860 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:10:000
+State for model myAircraft is Aircraft position: [4260,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25800 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:11:000
+State for model myAircraft is Aircraft position: [4320,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25740 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:12:000
+State for model myAircraft is Aircraft position: [4380,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25680 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:13:000
+State for model myAircraft is Aircraft position: [4440,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25620 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:14:000
+State for model myAircraft is Aircraft position: [4500,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25560 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:15:000
+State for model myAircraft is Aircraft position: [4560,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25500 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:16:000
+State for model myAircraft is Aircraft position: [4620,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25440 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:17:000
+State for model myAircraft is Aircraft position: [4680,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25380 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:18:000
+State for model myAircraft is Aircraft position: [4740,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25320 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:19:000
+State for model myAircraft is Aircraft position: [4800,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25260 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:20:000
+State for model myAircraft is Aircraft position: [4860,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25200 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:21:000
+State for model myAircraft is Aircraft position: [4920,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25140 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:22:000
+State for model myAircraft is Aircraft position: [4980,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25080 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:23:000
+State for model myAircraft is Aircraft position: [5040,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 25020 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:24:000
+State for model myAircraft is Aircraft position: [5100,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24960 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:25:000
+State for model myAircraft is Aircraft position: [5160,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24900 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:26:000
+State for model myAircraft is Aircraft position: [5220,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24840 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:27:000
+State for model myAircraft is Aircraft position: [5280,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24780 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:28:000
+State for model myAircraft is Aircraft position: [5340,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24720 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:29:000
+State for model myAircraft is Aircraft position: [5400,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24660 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:30:000
+State for model myAircraft is Aircraft position: [5460,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24600 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:31:000
+State for model myAircraft is Aircraft position: [5520,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24540 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:32:000
+State for model myAircraft is Aircraft position: [5580,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24480 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:33:000
+State for model myAircraft is Aircraft position: [5640,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24420 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:34:000
+State for model myAircraft is Aircraft position: [5700,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24360 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:35:000
+State for model myAircraft is Aircraft position: [5760,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24300 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:36:000
+State for model myAircraft is Aircraft position: [5820,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24240 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:37:000
+State for model myAircraft is Aircraft position: [5880,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24180 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:38:000
+State for model myAircraft is Aircraft position: [5940,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24120 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:39:000
+State for model myAircraft is Aircraft position: [6000,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24060 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:40:000
+State for model myAircraft is Aircraft position: [6060,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 24000 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:41:000
+State for model myAircraft is Aircraft position: [6120,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23940 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:42:000
+State for model myAircraft is Aircraft position: [6180,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23880 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:43:000
+State for model myAircraft is Aircraft position: [6240,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23820 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:44:000
+State for model myAircraft is Aircraft position: [6300,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23760 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:45:000
+State for model myAircraft is Aircraft position: [6360,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23700 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:46:000
+State for model myAircraft is Aircraft position: [6420,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23640 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:47:000
+State for model myAircraft is Aircraft position: [6480,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23580 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:48:000
+State for model myAircraft is Aircraft position: [6540,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23520 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:49:000
+State for model myAircraft is Aircraft position: [6600,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23460 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:50:000
+State for model myAircraft is Aircraft position: [6660,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23400 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:51:000
+State for model myAircraft is Aircraft position: [6720,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23340 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:52:000
+State for model myAircraft is Aircraft position: [6780,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23280 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:53:000
+State for model myAircraft is Aircraft position: [6840,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23220 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:54:000
+State for model myAircraft is Aircraft position: [6900,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23160 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:55:000
+State for model myAircraft is Aircraft position: [6960,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23100 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:56:000
+State for model myAircraft is Aircraft position: [7020,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 23040 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:57:000
+State for model myAircraft is Aircraft position: [7080,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22980 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:58:000
+State for model myAircraft is Aircraft position: [7140,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22920 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:01:59:000
+State for model myAircraft is Aircraft position: [7200,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22860 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:00:000
+State for model myAircraft is Aircraft position: [7260,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22800 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:01:000
+State for model myAircraft is Aircraft position: [7320,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22740 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:02:000
+State for model myAircraft is Aircraft position: [7380,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22680 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:03:000
+State for model myAircraft is Aircraft position: [7440,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22620 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:04:000
+State for model myAircraft is Aircraft position: [7500,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22560 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:05:000
+State for model myAircraft is Aircraft position: [7560,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22500 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:06:000
+State for model myAircraft is Aircraft position: [7620,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22440 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:07:000
+State for model myAircraft is Aircraft position: [7680,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22380 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:08:000
+State for model myAircraft is Aircraft position: [7740,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22320 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:09:000
+State for model myAircraft is Aircraft position: [7800,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22260 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:10:000
+State for model myAircraft is Aircraft position: [7860,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22200 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:11:000
+State for model myAircraft is Aircraft position: [7920,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22140 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:12:000
+State for model myAircraft is Aircraft position: [7980,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22080 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:13:000
+State for model myAircraft is Aircraft position: [8040,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 22020 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:14:000
+State for model myAircraft is Aircraft position: [8100,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21960 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:15:000
+State for model myAircraft is Aircraft position: [8160,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21900 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:16:000
+State for model myAircraft is Aircraft position: [8220,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21840 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:17:000
+State for model myAircraft is Aircraft position: [8280,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21780 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:18:000
+State for model myAircraft is Aircraft position: [8340,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21720 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:19:000
+State for model myAircraft is Aircraft position: [8400,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21660 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:20:000
+State for model myAircraft is Aircraft position: [8460,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21600 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:21:000
+State for model myAircraft is Aircraft position: [8520,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21540 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:22:000
+State for model myAircraft is Aircraft position: [8580,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21480 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:23:000
+State for model myAircraft is Aircraft position: [8640,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21420 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:24:000
+State for model myAircraft is Aircraft position: [8700,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21360 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:25:000
+State for model myAircraft is Aircraft position: [8760,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21300 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:26:000
+State for model myAircraft is Aircraft position: [8820,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21240 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:27:000
+State for model myAircraft is Aircraft position: [8880,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21180 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:28:000
+State for model myAircraft is Aircraft position: [8940,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21120 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:29:000
+State for model myAircraft is Aircraft position: [9000,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21060 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:30:000
+State for model myAircraft is Aircraft position: [9060,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 21000 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:31:000
+State for model myAircraft is Aircraft position: [9120,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20940 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:32:000
+State for model myAircraft is Aircraft position: [9180,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20880 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:33:000
+State for model myAircraft is Aircraft position: [9240,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20820 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:34:000
+State for model myAircraft is Aircraft position: [9300,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20760 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:35:000
+State for model myAircraft is Aircraft position: [9360,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20700 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:36:000
+State for model myAircraft is Aircraft position: [9420,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20640 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:37:000
+State for model myAircraft is Aircraft position: [9480,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20580 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:38:000
+State for model myAircraft is Aircraft position: [9540,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20520 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:39:000
+State for model myAircraft is Aircraft position: [9600,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20460 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:40:000
+State for model myAircraft is Aircraft position: [9660,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20400 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:41:000
+State for model myAircraft is Aircraft position: [9720,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20340 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:42:000
+State for model myAircraft is Aircraft position: [9780,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20280 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:43:000
+State for model myAircraft is Aircraft position: [9840,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20220 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:44:000
+State for model myAircraft is Aircraft position: [9900,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20160 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:45:000
+State for model myAircraft is Aircraft position: [9960,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20100 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:46:000
+State for model myAircraft is Aircraft position: [10020,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 20040 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:47:000
+State for model myAircraft is Aircraft position: [10080,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19980 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:48:000
+State for model myAircraft is Aircraft position: [10140,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19920 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:49:000
+State for model myAircraft is Aircraft position: [10200,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19860 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:50:000
+State for model myAircraft is Aircraft position: [10260,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19800 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:51:000
+State for model myAircraft is Aircraft position: [10320,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19740 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:52:000
+State for model myAircraft is Aircraft position: [10380,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19680 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:53:000
+State for model myAircraft is Aircraft position: [10440,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19620 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:54:000
+State for model myAircraft is Aircraft position: [10500,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19560 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:55:000
+State for model myAircraft is Aircraft position: [10560,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19500 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:56:000
+State for model myAircraft is Aircraft position: [10620,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19440 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:57:000
+State for model myAircraft is Aircraft position: [10680,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19380 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:58:000
+State for model myAircraft is Aircraft position: [10740,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19320 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:02:59:000
+State for model myAircraft is Aircraft position: [10800,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19260 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:00:000
+State for model myAircraft is Aircraft position: [10860,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19200 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:01:000
+State for model myAircraft is Aircraft position: [10920,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19140 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:02:000
+State for model myAircraft is Aircraft position: [10980,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19080 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:03:000
+State for model myAircraft is Aircraft position: [11040,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 19020 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:04:000
+State for model myAircraft is Aircraft position: [11100,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18960 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:05:000
+State for model myAircraft is Aircraft position: [11160,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18900 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:06:000
+State for model myAircraft is Aircraft position: [11220,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18840 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:07:000
+State for model myAircraft is Aircraft position: [11280,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18780 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:08:000
+State for model myAircraft is Aircraft position: [11340,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18720 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:09:000
+State for model myAircraft is Aircraft position: [11400,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18660 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:10:000
+State for model myAircraft is Aircraft position: [11460,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18600 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:11:000
+State for model myAircraft is Aircraft position: [11520,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18540 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:12:000
+State for model myAircraft is Aircraft position: [11580,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18480 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:13:000
+State for model myAircraft is Aircraft position: [11640,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18420 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:14:000
+State for model myAircraft is Aircraft position: [11700,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18360 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:15:000
+State for model myAircraft is Aircraft position: [11760,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18300 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:16:000
+State for model myAircraft is Aircraft position: [11820,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18240 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:17:000
+State for model myAircraft is Aircraft position: [11880,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18180 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:18:000
+State for model myAircraft is Aircraft position: [11940,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18120 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:19:000
+State for model myAircraft is Aircraft position: [12000,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18060 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:20:000
+State for model myAircraft is Aircraft position: [12060,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 18000 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:21:000
+State for model myAircraft is Aircraft position: [12120,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17940 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:22:000
+State for model myAircraft is Aircraft position: [12180,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17880 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:23:000
+State for model myAircraft is Aircraft position: [12240,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17820 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:24:000
+State for model myAircraft is Aircraft position: [12300,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17760 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:25:000
+State for model myAircraft is Aircraft position: [12360,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17700 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:26:000
+State for model myAircraft is Aircraft position: [12420,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17640 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:27:000
+State for model myAircraft is Aircraft position: [12480,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17580 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:28:000
+State for model myAircraft is Aircraft position: [12540,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17520 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:29:000
+State for model myAircraft is Aircraft position: [12600,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17460 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:30:000
+State for model myAircraft is Aircraft position: [12660,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17400 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:31:000
+State for model myAircraft is Aircraft position: [12720,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17340 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:32:000
+State for model myAircraft is Aircraft position: [12780,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17280 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:33:000
+State for model myAircraft is Aircraft position: [12840,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17220 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:34:000
+State for model myAircraft is Aircraft position: [12900,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17160 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:35:000
+State for model myAircraft is Aircraft position: [12960,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17100 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:36:000
+State for model myAircraft is Aircraft position: [13020,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 17040 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:37:000
+State for model myAircraft is Aircraft position: [13080,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16980 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:38:000
+State for model myAircraft is Aircraft position: [13140,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16920 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:39:000
+State for model myAircraft is Aircraft position: [13200,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16860 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:40:000
+State for model myAircraft is Aircraft position: [13260,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16800 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:41:000
+State for model myAircraft is Aircraft position: [13320,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16740 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:42:000
+State for model myAircraft is Aircraft position: [13380,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16680 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:43:000
+State for model myAircraft is Aircraft position: [13440,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16620 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:44:000
+State for model myAircraft is Aircraft position: [13500,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16560 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:45:000
+State for model myAircraft is Aircraft position: [13560,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16500 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:46:000
+State for model myAircraft is Aircraft position: [13620,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16440 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:47:000
+State for model myAircraft is Aircraft position: [13680,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16380 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:48:000
+State for model myAircraft is Aircraft position: [13740,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16320 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:49:000
+State for model myAircraft is Aircraft position: [13800,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16260 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:50:000
+State for model myAircraft is Aircraft position: [13860,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16200 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:51:000
+State for model myAircraft is Aircraft position: [13920,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16140 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:52:000
+State for model myAircraft is Aircraft position: [13980,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16080 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:53:000
+State for model myAircraft is Aircraft position: [14040,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 16020 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:54:000
+State for model myAircraft is Aircraft position: [14100,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 15960 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is WAITING (i.e., either the aircraft is not within range or the gunner has no missile)
+00:03:55:000
+State for model myAircraft is Aircraft position: [14160,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 15900 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is LAUNCHING (i.e., aircraft is within range). Distance between gunner and aircraft is: 5960 meters.
+00:03:56:000
+State for model myAircraft is Aircraft position: [14220,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 15840 meters.
+State for model myMissile is LAUNCHED. Missile status is: 1 (1 = hit and 0 = miss)
+State for model myGunner is LAUNCHING (i.e., aircraft is within range). Distance between gunner and aircraft is: 5900 meters.
+00:03:57:000
+State for model myAircraft is Aircraft position: [14280,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 15780 meters.
+State for model myMissile is LAUNCHED. Missile status is: 1 (1 = hit and 0 = miss)
+State for model myGunner is LAUNCHING (i.e., aircraft is within range). Distance between gunner and aircraft is: 5840 meters.
+00:03:58:000
+State for model myAircraft is Aircraft position: [14340,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 15720 meters.
+State for model myMissile is LAUNCHED. Missile status is: 1 (1 = hit and 0 = miss)
+State for model myGunner is LAUNCHING (i.e., aircraft is within range). Distance between gunner and aircraft is: 5780 meters.
+00:03:59:000
+State for model myAircraft is Aircraft position: [14400,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 15660 meters.
+State for model myMissile is LAUNCHED. Missile status is: 1 (1 = hit and 0 = miss)
+State for model myGunner is LAUNCHING (i.e., aircraft is within range). Distance between gunner and aircraft is: 5720 meters.
+00:04:00:000
+State for model myAircraft is Aircraft position: [14460,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 15600 meters.
+State for model myMissile is LAUNCHED. Missile status is: 1 (1 = hit and 0 = miss)
+State for model myGunner is LAUNCHING (i.e., aircraft is within range). Distance between gunner and aircraft is: 5660 meters.
+00:04:01:000
+State for model myAircraft is Aircraft position: [14520,0]
+State for model myRadar is DETECTED (i.e., aircraft is within the detection range). Distance between the radar and the aircraft is: 15540 meters.
+State for model myMissile is LAUNCHED. Missile status is: 1 (1 = hit and 0 = miss)
+State for model myGunner is HIT (i.e., aircraft has been hit)
+00:04:02:000
+State for model myAircraft is Aircraft position: [14520,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 15540 meters.
+State for model myMissile is LAUNCHED. Missile status is: 1 (1 = hit and 0 = miss)
+State for model myGunner is HIT (i.e., aircraft has been hit)
+00:04:06:000
+State for model myAircraft is Aircraft position: [14520,0]
+State for model myRadar is SEARCHING (i.e., aircraft is not within detection range). Distance between the radar and the aircraft is: 15540 meters.
+State for model myMissile is WAITING (i.e., missile is not within reach of aircraft).
+State for model myGunner is HIT (i.e., aircraft has been hit)
